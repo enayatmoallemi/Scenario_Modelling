@@ -1,7 +1,3 @@
-# Scenario_Modelling
- This repository provides the data and code used in:  (2021) .
-
-
  # *Scenario modelling of the sustainable development goals under uncertainty*
 
  by *Enayat A. Moallemi, Lei Gao, Sibel Eker, and Brett A. Bryan*

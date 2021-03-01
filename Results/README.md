@@ -1,6 +1,6 @@
 # Results generated in this paper
 
-The results files are uploaded as dataset to Zenodo from ""
+The results files are uploaded as dataset to Zenodo from "Moallemi, Enayat A., Gao, Lei, Eker, Sibel, & Bryan, Brett A. (2021). Dataset for manuscript "Scenario modelling of the sustainable development goals under uncertainty" (Version Submitted-v1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4569216"
 
 Download the results files and copy them in the related folders as follows:
 
