@@ -31,7 +31,7 @@
 
      git clone https://github.com/enayatmoallemi/Scenario_Modelling.git
 
- or [download a zip archive]().
+ or [download a zip archive](https://github.com/enayatmoallemi/Scenario_Modelling/archive/master.zip).
 
  A copy of the repository is also archived at *DOI TBC*
 
