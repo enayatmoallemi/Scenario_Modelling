@@ -12,7 +12,6 @@ The 'Vensim_calibration' folder contains the following datasets:
 * `SSP1_Felix.xlsx` to 'SSP5_FeliX.xlsx' are the SSP 1 to SSP5 projections with the FeliX model (for the  value in 'SSP1_calibrated_all_parameters') (same as SSPs_Felix.vdfx, but in CSV format).
 * `Export_vdfx_files_to_excel_v19.lst`: LiST file containing a set of variables to be saved from the Vensim simulation runs and converted into to a CSV file.
 
-The 'SDG_dataset' folder contains global and country/regional level data for each modelled indicator.
 
 The 'IIASA_SSP_dataset' folder contains SSP data from other IAMs projections, downloaded from the [IIASA Database](https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=about).
 * `SSP_GDP.xlsx`: This lists the GDP projection under different SSPs. This was used as input data for generating the calibration plots.
