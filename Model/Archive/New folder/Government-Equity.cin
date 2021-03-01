@@ -1,0 +1,24 @@
+future ec=.08
+future er=.01
+future ps=.01
+
+
+fvt=.09
+fvt 0=.037
+fvt 1=.053
+fvt 2=.01
+
+
+fps=.01
+fps 0=.02
+
+
+future mli=.01
+future mlg=-.05
+future mls=-.02
+future mld=-.05
+
+
+constant wif=.01
+constant wir=.01
+constant wia=.01
