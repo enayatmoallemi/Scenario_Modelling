@@ -29,7 +29,7 @@
  You can download a copy of all the files in this repository by cloning the
  [git](https://git-scm.com/) repository:
 
-     git clone https://github.com/enayatmoallemi/Moallemi_et_al_SDG_SSP_Assessment.git
+     git clone https://github.com/enayatmoallemi/Scenario_Modelling.git
 
  or [download a zip archive]().
 
