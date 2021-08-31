@@ -1,8 +1,8 @@
- # *Scenario modelling of the sustainable development goals under uncertainty*
+ # *Global change scenario modelling and the implications for sustainability*
 
  by *Enayat A. Moallemi, Lei Gao, Sibel Eker, and Brett A. Bryan*
 
- This paper is submitted for publication to *Earth's Future*.
+ This paper is submitted for publication to **.
 
 
  ## Abstract
